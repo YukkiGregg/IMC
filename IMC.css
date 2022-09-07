@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 35px;
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2017/08/06/medusa-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: 1930px;
+    background-position-x: center;
+}
+
+button:hover{
+    background-color: gray;
+}
+
+#resultado{
+    font-size: 25px;
+}
+.titulo{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+.Textocalculadora{
+    font-size: 42px;
+    text-align: center;
+    color:black;
+}
+.resultado{
+    font-size: 25px;
+}
+.calcular{
+    border-radius: none;
+
+}
+button{
+    border: none;
+    color: black;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 20px;
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    outline-color: black;
+    font-size: 20px;
+}
